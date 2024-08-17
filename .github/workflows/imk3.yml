@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: OpenWrt Builderyuan
+name: OpenWrt Builder im k3
 
 on:
   repository_dispatch:
